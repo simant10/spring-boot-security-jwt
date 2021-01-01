@@ -17,4 +17,5 @@ Why we use Json Web Token ?
 ---
 > When we want Authorization 
   >>  Means After sign in onces ,there is no need to send sign in credential in every request.After sign in we use JWT to perform actions like save , update ,delete.
+  
   >> With the help of JWT we can securly transfer data from one end other end.
